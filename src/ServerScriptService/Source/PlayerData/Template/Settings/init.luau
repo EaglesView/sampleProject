@@ -142,3 +142,4 @@ local settings = {
 
     }
 }
+return settings
